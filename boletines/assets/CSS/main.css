@@ -35,7 +35,7 @@ eddcd2
     }
     td{
       display: block;
-      width: 100%
+      width: 100%;
     }
     td:nth-of-type(1){
     font-size: 1.5em;
@@ -81,7 +81,7 @@ padding-bottom: 1em;
 
 .address{
 font-weight: bold;
-color: #ffd500
+color: #ffd500;
 font-size: 0.9em;
 margin-top: 1em;
 display: inline-block;
@@ -90,7 +90,7 @@ display: inline-block;
 .main-image{
 float: left;
 margin-right: 1em;
-height: 250px
+height: 250px;
 }
 
      html {
@@ -119,6 +119,7 @@ max-width: 100%;
 
     .paragraph{
         line-height: 1.5em;
+        text-align: justify;
     }
 
     .table{
